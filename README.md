@@ -5,7 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+🖥Frontend: Blazor, Tailwind CSS‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ ‎ ‎ ‎ ‎ 
+💾Additional Skills: MS SQL, T-SQL
 <!---
 DawidGarncarek/DawidGarncarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
