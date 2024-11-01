@@ -23,9 +23,9 @@
   
 |  🖥Frontend  |   🧱Backend    | 💾Additional Skills | 🛠Tools |
 | ------------ | -------------- | ------------- |----------|
-| git status   | git status     | git status    | seaseaes |
-| git diff     | git diff       | git diff      | asd a |
-
+| Blazor       | .NET     | T-SQL    |  MSSQL |
+| Tailwind CSS     | ASP.NET Blazor       | FIGMA      | Oracle |
+| HTML & CSS | C# | Photoshop | |
 
 | First Header  | Second Header |
 | ------------- | ------------- |
