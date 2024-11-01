@@ -4,7 +4,7 @@
 
 <p align="center"> On the frontend, my strongest skills are in Blazor, which I worked with while developing a web application to support weight management. Currently, I am expanding my skill set with React and Tailwind CSS, recognizing them as essential technologies in modern web development.</p>
 
-<p align="center"> On the backend, I have the most experience with C#, .NET, and ASP.NET Blazor. Additionally, I am well-versed in MSSQL, an expertise I developed in my previous role, where I also gained strong T-SQL skills for creating stored procedures and advanced database management.</p>
+<p align="center"> On the backend, I have the most experience with C#, .NET and ASP.NET Blazor. Additionally, I am well-versed in MSSQL, an expertise I developed in my previous role, where I also gained strong T-SQL skills for creating stored procedures and advanced database management.</p>
 
 <p></br></p>
 
