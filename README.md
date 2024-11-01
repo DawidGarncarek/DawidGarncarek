@@ -23,7 +23,5 @@
 | HTML & CSS | C# | Photoshop | VS Code |
 </div>
 
-<p align="left"> **My projects**</p>
-
 ###
 
