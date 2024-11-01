@@ -13,13 +13,17 @@
 
 ###
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="center">Languages and Tools:</h1>
 
-<div align="left">
+<div align="center">
   <p align="left"> 🖥Frontend: Blazor, Tailwind CSS‎ </p> ‎ ‎
   <p align="left"> 🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ </p>
   <p align="left"> 💾Additional Skills: MS SQL, T-SQL</p>
-  <p align="left"> 🛠Tools: MSSQL, T-SQL</p>‎‎
+  <p align="left"> 🛠Tools: MSSQL, T-SQL</p>
+|  🖥Frontend  |   🧱Backend    | 💾Additional Skills | 🛠Tools |
+| ------------ | -------------- | ------------- |----------|
+| git status   | git status     | git status    | seaseaes |
+| git diff     | git diff       | git diff      | asd a |
 </div>
 
 | First Header  | Second Header |
