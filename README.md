@@ -9,6 +9,10 @@
 
 ###
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 🖥Frontend: Blazor, Tailwind CSS‎ </p> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 <p align="left"> 🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ </p> ‎ ‎‎ ‎ ‎ ‎ 
