@@ -15,22 +15,15 @@
 
 <h1 align="center">Languages and Tools:</h1>
 
-
-  <p align="left"> 🖥Frontend: Blazor, Tailwind CSS‎ </p> ‎ ‎
-  <p align="left"> 🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ </p>
-  <p align="left"> 💾Additional Skills: MS SQL, T-SQL</p>
-  <p align="left"> 🛠Tools: MSSQL, T-SQL</p>
+<div align="center">
   
 |  🖥Frontend  |   🧱Backend    | 💾Additional Skills | 🛠Tools |
 | ------------ | -------------- | ------------- |----------|
 | Blazor       | .NET     | T-SQL    |  MSSQL |
 | Tailwind CSS     | ASP.NET Blazor       | FIGMA      | Oracle |
-| HTML & CSS | C# | Photoshop | |
+| HTML & CSS | C# | Photoshop | VS Code |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+</div>
 
 
 ###
