@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @DawidGarncarek</h1>
+<h3 align="center">👋 Hi, I’m @DawidGarncarek</h3>
 
 ###
 
@@ -13,15 +13,18 @@
 
 ###
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">Languages and Tools:</h1>
 
 <div align="center">
+  
 |  🖥Frontend  |   🧱Backend    | 💾Additional Skills | 🛠Tools |
 | ------------ | -------------- | ------------- |----------|
 | Blazor       | .NET     | T-SQL    |  MSSQL |
 | Tailwind CSS     | ASP.NET Blazor       | FIGMA      | Oracle |
 | HTML & CSS | C# | Photoshop | VS Code |
+
 </div>
+
 
 ###
 
