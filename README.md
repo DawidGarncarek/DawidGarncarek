@@ -13,7 +13,13 @@
 
 ###
 
+<h3 align="left">Languages and Tools:</h3>
+
 <div align="left">
+  <p align="left"> 🖥Frontend: Blazor, Tailwind CSS‎ </p> ‎ ‎
+  <p align="left"> 🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ </p> ‎ ‎‎
+  <p align="left"> 💾Additional Skills: MS SQL, T-SQL</p>
+  <p align="left"> 🛠Tools: MS SQL, T-SQL</p>‎‎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -31,7 +37,3 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 🖥Frontend: Blazor, Tailwind CSS‎ </p> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-<p align="left"> 🧱Backend: .NET, ASP.NET Blazor, C#‎ ‎ </p> ‎ ‎‎ ‎ ‎ ‎ 
-<p align="left"> 💾Additional Skills: MS SQL, T-SQL</p>
