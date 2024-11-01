@@ -25,11 +25,11 @@
 | git status   | git status     | git status    | seaseaes |
 | git diff     | git diff       | git diff      | asd a |
 </div>
-
+<div align="center">
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
+</div>
 ###
 
