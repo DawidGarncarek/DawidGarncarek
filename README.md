@@ -2,7 +2,7 @@
 <h4 align="center">About me</h4>
 <p align="center"> I am a young, ambitious computer scientist with a passion for expanding my knowledge in this dynamic field every day. I've been interested in IT for as long as I can remember, but it was only in high school, and later in college, that I was able to deepen my understanding and start building a future in this specialization. Choosing to study computer science has allowed me to broaden my expertise in key areas like programming and database management.</p>
 
-<p align="center"> On the frontend, my strongest skills are in Blazor, which I worked with while developing a web application to support weight management. Currently, I am expanding my skill set with React and Tailwind CSS, recognizing them as essential technologies in modern web development.</p>
+<p align="center"> On the frontend side, my strongest skills are in Blazor, which I used to build a web app for weight management. During this project, I also gained experience with Bootstrap 5, using it to create responsive and visually appealing user interfaces such as popups and on-page animations. I am currently expanding my skills to React and Tailwind CSS, considering them essential technologies in modern web development.
 
 <p align="center"> On the backend, I have the most experience with C#, .NET and ASP.NET Blazor. Additionally, I am well-versed in MSSQL, an expertise I developed in my previous role, where I also gained strong T-SQL skills for creating stored procedures and advanced database management.</p>
 
