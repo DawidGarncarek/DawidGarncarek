@@ -36,6 +36,7 @@
 | [Database-Exercises](https://github.com/DawidGarncarek/Database-Exercises) | Help with creating databases |
 | [AutoCAD-Inventor-Models](https://github.com/DawidGarncarek/AutoCAD-Inventor-Models) | Some of my created models |
 | [TechZone-Computer shop](https://github.com/DawidGarncarek/Project-sketch) | Project to learn React & Tailwind CSS |
+| [Browser Performance Project](https://github.com/DawidGarncarek/Performance-Testing-Tool) | Performance Testing Tool in Python |
 
 </div>
 
