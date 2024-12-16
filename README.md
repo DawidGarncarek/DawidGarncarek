@@ -51,6 +51,8 @@
 
 ###
 
+<picture>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DawidGarncarek"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DawidGarncarek" height="150" alt="streak stats" />
 </p>
+</picture>
