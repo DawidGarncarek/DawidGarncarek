@@ -16,9 +16,9 @@
   
 |  🖥Frontend  |   🧱Backend    | 💾Additional Skills | 🛠Tools |
 | ------------ | -------------- | ------------- |----------|
-| Blazor       | .NET     | T-SQL & SQL    |  MSSQL |
-| Tailwind CSS     | ASP.NET Blazor       | FIGMA      | Oracle |
-| HTML & CSS | C# | Photoshop | VS Code |
+| Blazor       | ASP.NET Blazor     | T-SQL & SQL    |  MSSQL |
+| Tailwind CSS     | C#       | FIGMA      | Oracle |
+| HTML & CSS | &nbsp | Photoshop | VS Code |
 
 </div>
 
