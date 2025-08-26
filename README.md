@@ -6,6 +6,8 @@
 
 <p align="center"> On the backend, I have the most experience with C#, .NET and ASP.NET Blazor. Additionally, I am well-versed in MSSQL, an expertise I developed in my previous role, where I also gained strong T-SQL skills for creating stored procedures and advanced database management.</p>
 
+<p align="center"> In the 2025, I have also developed a strong interest in cybersecurity. I am fascinated by the challenges of securing applications, data, and systems, and I have started exploring key concepts and best practices in this field. At the same time, I continue to specialize in database management, which has become one of my main areas of expertise. I am now looking for opportunities to combine these skills and gain professional experience in roles related to both cybersecurity and databases.</p>
+
 <p></br></p>
 
 <h2 align="center">✨Welcome to my command center✨</h2>
