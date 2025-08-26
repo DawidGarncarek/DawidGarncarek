@@ -20,7 +20,7 @@
 | ------------ | -------------- | ------------- |----------|
 | Blazor       | ASP.NET Blazor     | T-SQL & SQL    |  MSSQL |
 | Tailwind CSS     | C#       | FIGMA      | Oracle |
-| HTML & CSS | &nbsp | Photoshop | VS Code |
+| HTML & CSS | &nbsp; | Photoshop | VS Code |
 
 </div>
 
